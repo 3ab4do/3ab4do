@@ -1,6 +1,14 @@
-# 🖐️ Hey , I'm Abderrahmene Omari!
+# 🖐️ Hi, I'm Abderrahmene Omari!
 
-I am a 15-year-old student from algeria with a strong passion for technology, robotics, and artificial intelligence. I am dedicated to continuous self-improvement and love creating impactful projects designed to help people and serve society.
+I am a 15-year-old student with a strong passion for technology, robotics, and artificial intelligence. I am dedicated to continuous self-improvement and love creating impactful projects designed to help people and serve society.
+
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -20,11 +28,14 @@ I am a 15-year-old student from algeria with a strong passion for technology, ro
 
 ---
 
-## 📈 Roadmap & Future Goals
-* [ ] Integrate Computer Vision (OpenCV) with Arduino for intelligent, real-world solutions.
-* [ ] Develop smart IoT systems aimed at improving safety and accessibility in society.
-* [ ] Continue advancing my skills in robotics and embedded software engineering.
+## 🌐 Connect with me:
 
----
-
-📬 **Feel free to explore my repositories and connect with me!**
+<p align="left">
+  <a href="mailto:omari.abderrahmene@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/3ab4do" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="Instagram" />
+  </a>
+</p>
