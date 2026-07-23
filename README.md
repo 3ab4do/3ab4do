@@ -11,11 +11,13 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=3ab4do&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3ab4do&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=3ab4do&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -47,4 +49,6 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/3ab4do" target="_blank">
-    <img src="https://raw.githubusercontent.com/mau
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="Instagram" />
+  </a>
+</p>
