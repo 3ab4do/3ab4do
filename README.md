@@ -4,11 +4,36 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Overview
 
-![Profile Views](https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=3ab4do&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=3ab4do&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=dark" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=3ab4do&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -16,15 +41,12 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 * 🤖 **Robotics & Embedded Systems:** Building smart automation systems to solve real-world problems.
 * 💡 **Social Impact & Innovation:** Designing helpful, practical solutions to improve daily life and benefit the community.
 * 🧠 **Artificial Intelligence & Computer Vision:** Exploring image processing and data manipulation for intelligent applications.
-* 📈 **Self-Development:** Constantly upgrading my skills and evolving my projects step-by-step (Edition by Edition).
+* 📈 **Self-Development:** Constantly upgrading my skills and evolving my projects step-by-step.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-* **Programming Languages:** C++, Python
-* **AI & Data Libraries:** OpenCV, NumPy
-* **Hardware & Platforms:** Arduino
+## 💡 Dev Quote of the Day
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
