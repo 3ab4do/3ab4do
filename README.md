@@ -8,7 +8,7 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=3ab4do&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=3ab4do&theme=whatsapp-dark2&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
