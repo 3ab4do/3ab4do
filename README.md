@@ -8,6 +8,8 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=3ab4do&theme=github-dark&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
 ---
 
 ## 🚀 About Me & Interests
