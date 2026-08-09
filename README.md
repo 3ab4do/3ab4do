@@ -12,7 +12,12 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 ---
 
-
+<!-- عرض الرسم المتحركة في ملف التعريف -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3ab4do/3ab4do/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ab4do/3ab4do/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/3ab4do/3ab4do/output/github-snake.svg">
+</picture>
 
 ---
 
