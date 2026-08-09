@@ -20,12 +20,6 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 ---
 
-### 🏙️ My GitHub Skyline
-
-![GitHub Skyline](https://github.com/3ab4do/3ab4do/blob/output/github-skyline.svg)
-
----
-
 ## 🚀 About Me & Interests
 * 🤖 **Robotics & Embedded Systems:** Building smart automation systems to solve real-world problems.
 * 💡 **Social Impact & Innovation:** Designing helpful, practical solutions to improve daily life and benefit the community.
