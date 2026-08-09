@@ -22,7 +22,7 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 ### 🏙️ My GitHub Skyline
 
-[![My GitHub Skyline](https://skyline.github.com/3ab4do/2026)](https://skyline.github.com/3ab4do/2026)
+![GitHub Skyline](https://github.com/3ab4do/3ab4do/blob/output/github-skyline.svg)
 
 ---
 
