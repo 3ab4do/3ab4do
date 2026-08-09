@@ -17,8 +17,10 @@ I am a 15-year-old high school student from algeria with a strong passion for te
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3ab4do/3ab4do/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/3ab4do/3ab4do/output/github-snake.svg">
 </picture>
-
 ---
+### 🏙️ My GitHub Skyline
+
+[![My GitHub Skyline](https://skyline.github.com/3ab4do/2024)](https://skyline.github.com/3ab4do/2024)
 
 ## 🚀 About Me & Interests
 * 🤖 **Robotics & Embedded Systems:** Building smart automation systems to solve real-world problems.
