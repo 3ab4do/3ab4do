@@ -8,7 +8,7 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 * 🤖 **Robotics & Embedded Systems:** Building smart automation systems to solve real-world problems.
 * 💡 **Social Impact & Innovation:** Designing helpful, practical solutions to improve daily life and benefit the community.
 * 🧠 **Artificial Intelligence & Computer Vision:** Exploring image processing and data manipulation for intelligent applications.
-* 📈 **Self-Development:** Constantly upgrading my skills and evolving my projects step-by-step (Edition by Edition). 
+* 📈 **Self-Development:** Constantly upgrading my skills and evolving my projects step-by-step (Edition by Edition).
 
 ---
 
