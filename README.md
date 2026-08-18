@@ -26,6 +26,11 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=3ab4do&theme=github-dark&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=3b4do&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3b4do&layout=compact&theme=github_dark" width="48%" />
+</p>
+
 ---
 ## Don't let the snake starve, feed it with commits! 🐍
 <picture>
