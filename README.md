@@ -31,6 +31,8 @@ I am a 15-year-old high school student from algeria with a strong passion for te
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3b4do&layout=compact&theme=github_dark" width="48%" />
 </p>
 
+![](./github-summary-cards/profile/dark/0.svg)
+
 ---
 ## Don't let the snake starve, feed it with commits! 🐍
 <picture>
