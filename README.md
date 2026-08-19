@@ -16,7 +16,7 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 * **Programming Languages:** C++, Python
 * **AI & Data Libraries:** OpenCV, NumPy
-* **Hardware & Platforms:** Arduino
+* **Hardware & Platforms:** Arduino, ESP32, Raspberry pi 
 
 ---
 
