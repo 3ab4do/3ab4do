@@ -25,12 +25,12 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 ![Profile Views](https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat)
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=3ab4do&theme=onedark" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=3ab4do&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=3ab4do&show_icons=true&theme=onedark" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=onedark" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=3ab4do&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=github_dark" height="165" />
 </p>
 
 ---
