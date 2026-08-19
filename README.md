@@ -24,11 +24,14 @@ I am a 15-year-old high school student from algeria with a strong passion for te
 
 ![Profile Views](https://komarev.com/ghpvc/?username=3ab4do&color=blue&style=flat)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=3ab4do&theme=github-dark&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=3ab4do&theme=onedark" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3ab4do&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=3ab4do&show_icons=true&theme=onedark" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3ab4do&layout=compact&theme=onedark" height="165" />
+</p>
 
 ---
 ## Don't let the snake starve, feed it with commits! 🐍
