@@ -1,5 +1,5 @@
 # 🖐️ Hi, I'm Abderrahmene Omari!                               
-
+          
 I am a 15-year-old high school student from algeria with a strong passion for technology , robotics , and artificial intelligence. I am dedicated to continuous self-improvement and love creating impactful projects designed to help people and serve society.                                                         
                                                
 ---      
